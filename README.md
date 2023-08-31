@@ -1,0 +1,1 @@
+# Supabase as Algolia alternative
